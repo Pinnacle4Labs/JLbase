@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gmap1.0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapactivity">mapactivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+</resources>

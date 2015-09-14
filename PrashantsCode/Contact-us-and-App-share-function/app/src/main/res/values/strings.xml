@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pattern1</string>
+
+    <string name="title_section1">Skilled people </string>
+    <string name="title_section2">Notification c</string>
+    <string name="title_section3">jobs</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Share apps</string>
+    <string name="contact">CONTACT US</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
